@@ -23,7 +23,7 @@ When you refresh the database in MySQL, you should see the numbers for each burg
 ![Localhost Web View](eat-da-burger-localhost.png)
 
 ## Credits
-This project is a homework for the University of Denver Full-Stack Web Development Bootcamp. Thank you for view and trying it.
+This project is a homework for the University of Denver Full-Stack Web Development Bootcamp. Thank you for viewing and (possibly) trying it.
 
 https://github.com/brandonln53/Eat-Da-Burger
 
